@@ -1,2 +1,5 @@
-/.idea
-/.git
+.idea/
+.git/
+__pycache__/
+private_data/
+search_tester.py
