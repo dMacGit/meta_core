@@ -180,11 +180,9 @@ class Movie_object(object):
             self.links[store] = link
             self.prices[store] = price
 
-    def add_rating ( site, rating ):
+    def add_rating (self, site, rating ):
         pass
-
-    def get_format (self):
-        return self.format
+    
     def get_rating (self):
         return self.ratings
     def get_link (self):
