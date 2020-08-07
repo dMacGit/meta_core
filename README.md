@@ -2,16 +2,12 @@
 _A basic package that handles Blu-Ray and DVD Movie Media, Meta data searching_
 
 ## Table of Contents
-___
 
 - [General Info](#General-Info)
 - [Technologies](#Technologies)
 - [Setup](#Setup)
 - [Future](#Future)
 - [Status](#Status)
-
-
----
 
 ## General Info
 
