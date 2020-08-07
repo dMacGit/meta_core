@@ -38,9 +38,9 @@ Read more [here](http://www.omdbapi.com/apikey.aspx)
 ## Future
 
 Most of the core functionality is complete. 
-Requires adding support for imdb ID's as well as user defined Lists (Both tt-ids and titles).
-
-Also Need to remove old code leftovers.
+- Need to add support for imdb ID's
+- Support for user defined Lists (Both tt-ids and titles).
+- Remove old code leftovers.
 
 ## Status
 
