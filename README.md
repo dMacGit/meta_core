@@ -13,7 +13,7 @@ ___
 
 ## General Info
 
-This makes use of the 3rd party API OMDBapi* _http://www.omdbapi.com_ in order to grab information/meta-data on the searched DVD and Blu-Ray Movie title. Currently works on **Text** titles, but in future **imdb** specific id's as well.
+This makes use of the 3rd party API OMDBapi _http://www.omdbapi.com_ in order to grab information/meta-data on the searched DVD and Blu-Ray Movie title. Currently works on **Text** titles, but in future **imdb** specific id's as well.
 
 ## Technologies
 
@@ -27,7 +27,7 @@ This makes use of the 3rd party API OMDBapi* _http://www.omdbapi.com_ in order t
 1. Create an OMDBapi API key.
 Read more [here](http://www.omdbapi.com/apikey.aspx)
 
-2. A Clone repo into target folder/directory.
+2. Clone repo into target folder/directory.
 
 3. Create **private_data** folder in root directory.
 
