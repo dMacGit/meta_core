@@ -7,7 +7,9 @@ ___
 - [General Info](#General-Info)
 - [Technologies](#Technologies)
 - [Setup](#Setup)
+- [Future](#Future)
 - [Status](#Status)
+
 
 ---
 
@@ -33,16 +35,13 @@ Read more [here](http://www.omdbapi.com/apikey.aspx)
 
 4. In **private_data** folder, create text file **private_key.txt** and paste in the key. Make sure the text format in the file reads: `key:placeKeyTextHere`
 
-## Status
-
- - Currently still in development
+## Future
 
 Most of the core functionality is complete. 
 Requires adding support for imdb ID's as well as user defined Lists (Both tt-ids and titles).
 
 Also Need to remove old code leftovers.
 
+## Status
 
-
-
-
+ - Currently still in development
